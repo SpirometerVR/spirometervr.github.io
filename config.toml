@@ -1,6 +1,6 @@
 title = "CHLA team blog"
 # Add an trailing slash to ensure that all fonts render correctly.
-baseURL = "https://example.com/"
+baseURL = "https://spirometervr.github.io/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
