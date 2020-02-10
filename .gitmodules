@@ -1,0 +1,4 @@
+[submodule "spirometervr.github.io"]
+	path = spirometervr.github.io
+	url = https://github.com/SpirometerVR/spirometervr.github.io.git
+	branch = master
