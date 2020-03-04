@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on CHLA team blog</title>
+    <link>https://spirometervr.github.io/tags/development/</link>
+    <description>Recent content in Development on CHLA team blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Feb 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 4: Dev Environment Setup &amp; Management Change</title>
+      <link>https://spirometervr.github.io/article/post-week-4/</link>
+      <pubDate>Fri, 21 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-4/</guid>
+      <description>This week we lost our Production Manager. That being said, we have elected a new PM and are still full steam ahead!
+For this posting, we are stepping a back a bit to review development environment setup for the breathing games. Without further ado&amp;hellip;
+##The Digital Spirometer
+&amp;ndash; The CHLA Team</description>
+    </item>
+    
+  </channel>
+</rss>
