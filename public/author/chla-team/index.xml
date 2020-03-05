@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHLA Team on CHLA team blog</title>
+    <link>https://spirometervr.github.io/author/chla-team/</link>
+    <description>Recent content in CHLA Team on CHLA team blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Feb 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/author/chla-team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 4: Dev Environment Setup &amp; Management Change</title>
+      <link>https://spirometervr.github.io/article/post-week-4/</link>
+      <pubDate>Fri, 21 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-4/</guid>
+      <description>This week we lost our Production Manager. That being said, we have elected a new PM and are still full steam ahead!
+For this posting, we are stepping a back a bit to review development environment setup for the breathing games. Without further ado&amp;hellip;
+Arduino Setup  Connect the M5StickC to your computer via the micro USB cable Install and run the Arduino IDE from https://www.arduino.cc/en/main/software In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager) Go to File -&amp;gt; Preferences -&amp;gt; Settings Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: https://dl.</description>
+    </item>
+    
+    <item>
+      <title>Week 3: Field trip to CHLA</title>
+      <link>https://spirometervr.github.io/article/post-week-3/</link>
+      <pubDate>Fri, 14 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-3/</guid>
+      <description>&lt;p&gt;To become more familiar with the specific breathing protocal that is used by the children, this week the team took a little field trip to the Children&amp;rsquo;s Hospital Los Angeles. We met with 6 doctors. It turned out that the doctors thought our VR game was going to be designed around the diagnostics protocol which each patient has to first perform at the clinic before beginning their daily protocol. This was different from Dr. Vangelis expectation of our team design the VR experience to focus on the daily protocol, so he took the time to clarify and make sure the CHLA doctors were all onboard with our team designing for the daily protocol instead.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Week 2: Game Idea &amp; Team Tools</title>
+      <link>https://spirometervr.github.io/article/post-week-2/</link>
+      <pubDate>Fri, 07 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-2/</guid>
+      <description>&lt;p&gt;It begins!&lt;/p&gt;
+&lt;p&gt;On a sad note, this past week one team member had to leave the course due to a class schedule change. On a happier note, our team space was setup in the USC Creative Media and Behavioural Health lab. On top of this received two Oculus Go and 3 custom made spirometers, designed by Dr. Vangelis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Week 1: The Breathing Game Blog</title>
+      <link>https://spirometervr.github.io/article/post-week-1/</link>
+      <pubDate>Sat, 01 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-1/</guid>
+      <description>&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;This is the start of our team blog. This space is for you to be part of our teams journey on the game development progress during the Spring 2020 Augmented, Virtual &amp;amp; Mixed Reality course at USC (CSCI 538). Our team has an amazing opportunity to work on building games to make the breathing therapy process more interactive and fun for kids at the Children&amp;rsquo;s Hospital Los Angeles.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
