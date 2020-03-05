@@ -10,7 +10,7 @@ resizeImages: false
 ---
 It begins!
  
-On a sad note, this past week one team member had to leave the course due to a class schedule change. On a happier note, our team space was setup in the USC Creative Media and Behavioural Health lab. On top of this received two Oculus Go and 10 custom made spirometers, designed by Dr. Vangelis.
+On a sad note, this past week one team member had to leave the course due to a class schedule change. On a happier note, our team space was setup in the USC Creative Media and Behavioural Health lab. On top of this received two Oculus Go and 3 custom made spirometers, designed by Dr. Vangelis.
  
 <!--more-->
  
