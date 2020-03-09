@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHLA on CHLA team blog</title>
+    <link>https://spirometervr.github.io/tags/chla/</link>
+    <description>Recent content in CHLA on CHLA team blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 Feb 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/chla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 3: Field trip to CHLA</title>
+      <link>https://spirometervr.github.io/article/post-week-3/</link>
+      <pubDate>Fri, 14 Feb 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-3/</guid>
+      <description>&lt;p&gt;To become more familiar with the specific breathing protocal that is used by the children, this week the team took a little field trip to the Children&amp;rsquo;s Hospital Los Angeles. We met with 6 doctors. It turned out that the doctors thought our VR game was going to be designed around the diagnostics protocol which each patient has to first perform at the clinic before beginning their daily protocol. This was different from Dr. Vangelis expectation of our team design the VR experience to focus on the daily protocol, so he took the time to clarify and make sure the CHLA doctors were all onboard with our team designing for the daily protocol instead.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
