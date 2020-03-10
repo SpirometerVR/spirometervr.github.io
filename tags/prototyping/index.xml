@@ -5,10 +5,19 @@
     <link>https://spirometervr.github.io/tags/prototyping/</link>
     <description>Recent content in Prototyping on CHLA team blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Feb 2020 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://spirometervr.github.io/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 6: Prototyping continued...</title>
+      <link>https://spirometervr.github.io/article/post-week-6/</link>
+      <pubDate>Fri, 06 Mar 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-6/</guid>
+      <description>The process of building out each mini game continues. This week we took the time to integrate the use of the custom Digital Spirometer into or Unity projects. WIth the help of Unity OSC script, a headache and a lot of &amp;ldquo;Why is this not working!&amp;rdquo; our team finally found success. We now can use our inhalations on the digital spirometer to propel the boat forward in the scene! In Addition to this, we also successfully pushed and tested the scene on the Oculus Go.</description>
+    </item>
     
     <item>
       <title>Week 5: Pivots &amp; Prototyping</title>
@@ -17,7 +26,7 @@
       
       <guid>https://spirometervr.github.io/article/post-week-5/</guid>
       <description>This week the process of prototyping our new mini games is in full swing. After speaking with Professor Marientina &amp;amp; Dr. Vangelis our mini games have pivoted a bit to the following:
-   name description inhale exhale     Sailboat game You&amp;rsquo;re the wind slow down accelarate   Pebbles &amp;amp; Fruit Knock fruit down from the trees collect a pebble blow pebble at fruit   Save the Village Be the enemy or the savior collect air/water spray fire/water    Building the scene</description>
+   name description inhale exhale     Sailboat game You&amp;rsquo;re the wind slow down accelerate   Pebbles &amp;amp; Fruit Knock fruit down from the trees collect a pebble blow pebble at fruit   Save the Village Be the enemy or the savior collect air/water spray fire/water    Building the scene</description>
     </item>
     
   </channel>

@@ -8,14 +8,14 @@
     <meta name="description" content="Blog for CHLA team&#39;s Spirometer VR game development.">
     <meta name="keywords" content="spirometer,virtual,reality,vr,blog,game,development,oculus,chla,chidren,hospital,los,angeles">
     <meta name="generator" content="Hugo 0.64.1" />
-    <title> Week 5: Pivots &amp; Prototyping | CHLA team blog</title>
-    <meta name="description" content="Week 5: Pivots &amp; Prototyping - Blog for CHLA team&#39;s Spirometer VR game development.">
-    <meta itemprop="name" content="Week 5: Pivots &amp; Prototyping">
-    <meta itemprop="description" content="Week 5: Pivots &amp; Prototyping - Blog for CHLA team&#39;s Spirometer VR game development.">
-    <meta property="og:title" content="Week 5: Pivots &amp; Prototyping">
-    <meta property="og:description" content="Week 5: Pivots &amp; Prototyping - Blog for CHLA team&#39;s Spirometer VR game development.">
+    <title> Week 6: Prototyping continued... | CHLA team blog</title>
+    <meta name="description" content="Week 6: Prototyping continued... - Blog for CHLA team&#39;s Spirometer VR game development.">
+    <meta itemprop="name" content="Week 6: Prototyping continued...">
+    <meta itemprop="description" content="Week 6: Prototyping continued... - Blog for CHLA team&#39;s Spirometer VR game development.">
+    <meta property="og:title" content="Week 6: Prototyping continued...">
+    <meta property="og:description" content="Week 6: Prototyping continued... - Blog for CHLA team&#39;s Spirometer VR game development.">
     <meta property="og:image" content="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=200">
-    <meta property="og:url" content="https://spirometervr.github.io/article/post-week-5/">
+    <meta property="og:url" content="https://spirometervr.github.io/article/post-week-6/">
     <meta property="og:site_name" content="CHLA team blog">
     <meta property="og:type" content="article">
 
@@ -23,8 +23,8 @@
 
 
     
-    <link href="/article/post-week-5/" rel="alternate" type="application/rss+xml" title="CHLA team blog" />
-    <link href="/article/post-week-5/" rel="feed" type="application/rss+xml" title="CHLA team blog" />
+    <link href="/article/post-week-6/" rel="alternate" type="application/rss+xml" title="CHLA team blog" />
+    <link href="/article/post-week-6/" rel="feed" type="application/rss+xml" title="CHLA team blog" />
     
 
 
@@ -94,27 +94,19 @@
      
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="https://spirometervr.github.io/article/post-week-5/">
+            <a class="bubble" href="https://spirometervr.github.io/article/post-week-6/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
 <article class="default article">
     
-    <div class="featured-image">
-        <a href="https://spirometervr.github.io/article/post-week-5/">
-            
-                <img src="/article/post-week-5/featuredImage.png" alt="">
-            
-        </a>
-    </div>
-
 
     <div class="content">
-    <h1 class="article-title"><a href="https://spirometervr.github.io/article/post-week-5/">Week 5: Pivots &amp; Prototyping</a></h1>
+    <h1 class="article-title"><a href="https://spirometervr.github.io/article/post-week-6/">Week 6: Prototyping continued...</a></h1>
     <div class="meta">
         
         
-        <span class="date moment">2020-02-28</span>
+        <span class="date moment">2020-03-06</span>
         
         
 
@@ -128,41 +120,11 @@
     </div>
 
     
-    <p>This week the process of prototyping our new mini games is in full swing. After speaking with Professor Marientina &amp; Dr. Vangelis our mini games have pivoted a bit to the following:</p>
-<table>
-<thead>
-<tr>
-<th>name</th>
-<th>description</th>
-<th>inhale</th>
-<th>exhale</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Sailboat game</td>
-<td>You&rsquo;re the wind</td>
-<td>slow down</td>
-<td>accelerate</td>
-</tr>
-<tr>
-<td>Pebbles &amp; Fruit</td>
-<td>Knock fruit down from the trees</td>
-<td>collect a pebble</td>
-<td>blow pebble at fruit</td>
-</tr>
-<tr>
-<td>Save the Village</td>
-<td>Be the enemy or the savior</td>
-<td>collect air/water</td>
-<td>spray fire/water</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Building the scene</strong></p>
-<p>We found amazing low poly environments and items in the unity asset store to help us rapid prototype the new game scenes. Our team primarily works on building and testing the initial game scenes with keyboard input for now.</p>
-<p><strong>Next week&hellip;</strong></p>
-<p>Once the scenes are at a decent state we will look into integrating our most important feature, the Digital Spirometer, via the <a href="https://thomasfredericks.github.io/UnityOSC/"><strong>Unity Open Sound Control</strong></a> script. Stay tuned!</p>
+    <p>The process of building out each mini game continues. This week we took the time to integrate the use of the custom Digital Spirometer into or Unity projects. WIth the help of <a href="https://thomasfredericks.github.io/UnityOSC/"><strong>Unity OSC</strong></a> script, a headache and a lot of &ldquo;Why is this not working!&rdquo; our team finally found success. We now can use our inhalations on the digital spirometer to propel the boat forward in the scene! In Addition to this, we also successfully pushed and tested the scene on the Oculus Go.</p>
+<p><strong>Pain points</strong></p>
+<p>We are finding the digital spirometer is not perfect. We are seeing that when it comes to getting the device working with Unity it has only worked thus far on macOS and not on Windows for our team. Also using the Arduino IDE to upload the <code>M5_Spirometer_2020.ino</code> script to the M5Stick-C works for some of our laptops, and not for others. During upload we are seeing the screen of the M5Stick-C keep flashing off and on for several times before the IDE throws an error.</p>
+<p><strong>Next up&hellip;</strong></p>
+<p>Next we will attempt to get the spirometer also intergrated into the Pebble + Fruit mini game, and attempt to get the prior teams Save the Village game fully working again. Currently we are unable to use the Oculus controller to begin the game and we still need to test it with the digital spirometer input.</p>
 <p>&ndash; The CHLA Team</p>
 
     
@@ -180,8 +142,6 @@
                     <a href="/tags/prototyping">Prototyping</a>
                 
                     <a href="/tags/mini-games">Mini Games</a>
-                
-                    <a href="/tags/pivot">Pivot</a>
                 
             </div>
         </div>
