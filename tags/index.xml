@@ -5,7 +5,7 @@
     <link>https://spirometervr.github.io/tags/</link>
     <description>Recent content in Tags on CHLA team blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Mar 2020 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://spirometervr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,27 @@
     <item>
       <title>COVID19</title>
       <link>https://spirometervr.github.io/tags/covid19/</link>
-      <pubDate>Fri, 13 Mar 2020 11:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 Mar 2020 11:00:00 +0100</pubDate>
       
       <guid>https://spirometervr.github.io/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online classes</title>
+      <link>https://spirometervr.github.io/tags/online-classes/</link>
+      <pubDate>Fri, 27 Mar 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/tags/online-classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>https://spirometervr.github.io/tags/zoom/</link>
+      <pubDate>Fri, 27 Mar 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/tags/zoom/</guid>
       <description></description>
     </item>
     
@@ -25,15 +43,6 @@
       <pubDate>Fri, 13 Mar 2020 11:00:00 +0100</pubDate>
       
       <guid>https://spirometervr.github.io/tags/midterm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online classes</title>
-      <link>https://spirometervr.github.io/tags/online-classes/</link>
-      <pubDate>Fri, 13 Mar 2020 11:00:00 +0100</pubDate>
-      
-      <guid>https://spirometervr.github.io/tags/online-classes/</guid>
       <description></description>
     </item>
     

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COVID19 on CHLA team blog</title>
-    <link>https://spirometervr.github.io/tags/covid19/</link>
-    <description>Recent content in COVID19 on CHLA team blog</description>
+    <title>Zoom on CHLA team blog</title>
+    <link>https://spirometervr.github.io/tags/zoom/</link>
+    <description>Recent content in Zoom on CHLA team blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Mar 2020 11:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://spirometervr.github.io/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spirometervr.github.io/tags/zoom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,6 @@
       
       <guid>https://spirometervr.github.io/article/post-week-8/</guid>
       <description>Spring has sprung, and the break is done. Since our last post a lot has rapidly changed in response to the novel coronavirus pandemic rapidly spreading across the world. Zoom meetings are the new normal. USC has updated the requirement now for all courses to be switched to online for the remainder of the semester. The campus is now locked down for students and non-essential employees, Commencement has been cancelled and students living in on campus housing are not allowed to return from their spring break travels to pack and move out.</description>
-    </item>
-    
-    <item>
-      <title>Week 7: Midterm Presentations &#43; COVID-19 = :-(</title>
-      <link>https://spirometervr.github.io/article/post-week-7/</link>
-      <pubDate>Fri, 13 Mar 2020 11:00:00 +0100</pubDate>
-      
-      <guid>https://spirometervr.github.io/article/post-week-7/</guid>
-      <description>This week, in response to the novel coronavirus pandemic rapidly spreading across the world, USC required all courses to be switched to online until mid April. To adjust to this change our midterm presentation for class was switched to a walkthrough video showing the current state of our VR breathing mini games.
-The change in course instruction format to online, plus the recent closure of the campus buildings to help mitigate the spread of the virus, will affect some teams more than others.</description>
     </item>
     
   </channel>
