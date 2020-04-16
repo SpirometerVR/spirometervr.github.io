@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CHLA team blog</title>
+    <title>Breathing Games Dev Diary</title>
     <link>https://spirometervr.github.io/</link>
-    <description>Recent content on CHLA team blog</description>
+    <description>Recent content on Breathing Games Dev Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Mar 2020 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 11:00:00 +0100</lastBuildDate>
     
         <atom:link href="https://spirometervr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -12,7 +12,7 @@
     <item>
       <title>Articles</title>
       <link>https://spirometervr.github.io/article/</link>
-      <pubDate>Fri, 27 Mar 2020 11:00:00 +0100</pubDate>
+      <pubDate>Fri, 03 Apr 2020 11:00:00 +0100</pubDate>
       
       <guid>https://spirometervr.github.io/article/</guid>
       <description></description>

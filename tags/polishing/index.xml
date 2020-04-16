@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polishing on Breathing Games Dev Diary</title>
+    <link>https://spirometervr.github.io/tags/polishing/</link>
+    <description>Recent content in polishing on Breathing Games Dev Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Apr 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/polishing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 9: Game polishing &#43; 3rd mini game concept reveal!</title>
+      <link>https://spirometervr.github.io/article/post-week-9/</link>
+      <pubDate>Fri, 03 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-9/</guid>
+      <description>This week we have been iterating on the polishing of our two mini games, Treasure Hunter and Fruit Fall, based on instructor feedback. Minor camera changes were added to improve the visual feedback as the player propels the boat forward in Treasure Hunter. In Fruit Fall a new fruit targeting feature was added to make it easy for players to see which fruit they were aiming at.
+We created a quick proof of concept for our third mini game, The Void, which we would like to add to round off our breathing game selections.</description>
+    </item>
+    
+  </channel>
+</rss>

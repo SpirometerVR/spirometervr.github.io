@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CHLA team blog</title>
+    <title>Tags on Breathing Games Dev Diary</title>
     <link>https://spirometervr.github.io/tags/</link>
-    <description>Recent content in Tags on CHLA team blog</description>
+    <description>Recent content in Tags on Breathing Games Dev Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Mar 2020 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://spirometervr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3rd concept</title>
+      <link>https://spirometervr.github.io/tags/3rd-concept/</link>
+      <pubDate>Fri, 03 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/tags/3rd-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polishing</title>
+      <link>https://spirometervr.github.io/tags/polishing/</link>
+      <pubDate>Fri, 03 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/tags/polishing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID19</title>
