@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reduced scope on Breathing Games Dev Diary</title>
+    <link>https://spirometervr.github.io/tags/reduced-scope/</link>
+    <description>Recent content in reduced scope on Breathing Games Dev Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Apr 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/reduced-scope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 10: Trearsure Hunter&#39;s new look!</title>
+      <link>https://spirometervr.github.io/article/post-week-10/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-10/</guid>
+      <description>This week is still focused on polishing our mini-games. During our progress review with Professor Vangelis it was recommended that we not increase the scope more by adding the Void mini-game. Therefore, with the remaining weeks in this semester the team will do our best to focus on increasing the fidelity of games.
+Also, based on the professor&amp;rsquo;s response to our current state of Treasure Hunter we have stepped back to see if another game environment would work better.</description>
+    </item>
+    
+  </channel>
+</rss>

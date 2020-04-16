@@ -5,10 +5,20 @@
     <link>https://spirometervr.github.io/article/</link>
     <description>Recent content in Articles on Breathing Games Dev Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Apr 2020 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://spirometervr.github.io/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 10: Trearsure Hunter&#39;s new look!</title>
+      <link>https://spirometervr.github.io/article/post-week-10/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-10/</guid>
+      <description>This week is still focused on polishing our mini-games. During our progress review with Professor Vangelis it was recommended that we not increase the scope more by adding the Void mini-game. Therefore, with the remaining weeks in this semester the team will do our best to focus on increasing the fidelity of games.
+Also, based on the professor&amp;rsquo;s response to our current state of Treasure Hunter we have stepped back to see if another game environment would work better.</description>
+    </item>
     
     <item>
       <title>Week 9: Game polishing &#43; 3rd mini game concept reveal!</title>
@@ -18,15 +28,6 @@
       <guid>https://spirometervr.github.io/article/post-week-9/</guid>
       <description>This week we have been iterating on the polishing of our two mini games, Treasure Hunter and Fruit Fall, based on instructor feedback. Minor camera changes were added to improve the visual feedback as the player propels the boat forward in Treasure Hunter. In Fruit Fall a new fruit targeting feature was added to make it easy for players to see which fruit they were aiming at.
 We created a quick proof of concept for our third mini game, The Void, which we would like to add to round off our breathing game selections.</description>
-    </item>
-    
-    <item>
-      <title>Week 8: ZOOM is the new USC</title>
-      <link>https://spirometervr.github.io/article/post-week-10/</link>
-      <pubDate>Fri, 27 Mar 2020 11:00:00 +0100</pubDate>
-      
-      <guid>https://spirometervr.github.io/article/post-week-10/</guid>
-      <description>Spring has sprung, and the break is done. Since our last post a lot has rapidly changed in response to the novel coronavirus pandemic rapidly spreading across the world. Zoom meetings are the new normal. USC has updated the requirement now for all courses to be switched to online for the remainder of the semester. The campus is now locked down for students and non-essential employees, Commencement has been cancelled and students living in on campus housing are not allowed to return from their spring break travels to pack and move out.</description>
     </item>
     
     <item>
