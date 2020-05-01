@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>final on Breathing Games Dev Diary</title>
+    <link>https://spirometervr.github.io/tags/final/</link>
+    <description>Recent content in final on Breathing Games Dev Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Apr 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/final/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 11: Crunch to final game build!</title>
+      <link>https://spirometervr.github.io/article/post-week-11/</link>
+      <pubDate>Fri, 17 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-11/</guid>
+      <description>Hey all! We are on the last sprint towards our final presentation and deliverables and we can feel the crunch. This week the team has been hard at work adding new features into our two breathing mini games based on the feedback from Professor Vangelis. Not much else to report. Thinks are getting busy as finals for classes are around the corner. Here is a sneak peek at our remaining tasks for Space Quest:</description>
+    </item>
+    
+  </channel>
+</rss>

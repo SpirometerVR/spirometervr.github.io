@@ -99,6 +99,243 @@
         
     <div class="article-wrapper u-cf">
         
+            <a class="bubble" href="https://spirometervr.github.io/article/post-week-5/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+    <div class="featured-image">
+        <a href="https://spirometervr.github.io/article/post-week-5/">
+            
+                <img src="/article/post-week-5/featuredImage.png" alt="">
+            
+        </a>
+    </div>
+
+
+    <div class="content">
+    <h1 class="article-title"><a href="https://spirometervr.github.io/article/post-week-5/">Week 5: Pivots &amp; Prototyping</a></h1>
+    <div class="meta">
+        
+        
+        <span class="date moment">2020-02-28</span>
+        
+        
+
+        
+
+        
+
+        
+        <span class="author"><a href="/author/chla-team">CHLA Team</a></span>
+        
+    </div>
+
+    
+    <p>This week the process of prototyping our new mini games is in full swing. After speaking with Professor Marientina &amp; Dr. Vangelis our mini games have pivoted a bit to the following:</p>
+<table>
+<thead>
+<tr>
+<th>name</th>
+<th>description</th>
+<th>inhale</th>
+<th>exhale</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Treasure Hunter</td>
+<td>You&rsquo;re the wind</td>
+<td>slow down</td>
+<td>accelerate</td>
+</tr>
+<tr>
+<td>Fruit Fall</td>
+<td>Knock fruit down from the trees</td>
+<td>collect a pebble</td>
+<td>blow pebble at fruit</td>
+</tr>
+<tr>
+<td>Save the Village</td>
+<td>Be the enemy or the savior</td>
+<td>collect air/water</td>
+<td>spray fire/water</td>
+</tr>
+</tbody>
+</table>
+<!-- raw HTML omitted -->
+<p><strong>Building the scene</strong></p>
+<p>We found amazing low poly environments and items in the unity asset store to help us rapid prototype the new game scenes. Our team primarily works on building and testing the initial game scenes with keyboard input for now.</p>
+<p><strong>Next week&hellip;</strong></p>
+<p>Once the scenes are at a decent state we will look into integrating our most important feature, the Digital Spirometer, via the <a href="https://thomasfredericks.github.io/UnityOSC/"><strong>Unity Open Sound Control</strong></a> script. Stay tuned!</p>
+<p>&ndash; The CHLA Team</p>
+
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    <a href="/tags/prototyping">Prototyping</a>
+                
+                    <a href="/tags/mini-games">Mini Games</a>
+                
+                    <a href="/tags/pivot">Pivot</a>
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        
+    <div class="article-wrapper u-cf">
+        
+            <a class="bubble" href="https://spirometervr.github.io/article/post-week-4/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+    <div class="featured-image">
+        <a href="https://spirometervr.github.io/article/post-week-4/">
+            
+                <img src="/article/post-week-4/featuredImage.png" alt="">
+            
+        </a>
+    </div>
+
+
+    <div class="content">
+    <h1 class="article-title"><a href="https://spirometervr.github.io/article/post-week-4/">Week 4: Dev Environment Setup &amp; Management Change</a></h1>
+    <div class="meta">
+        
+        
+        <span class="date moment">2020-02-21</span>
+        
+        
+
+        
+
+        
+
+        
+        <span class="author"><a href="/author/chla-team">CHLA Team</a></span>
+        
+    </div>
+
+    
+    <p>This week we lost our Production Manager. That being said, we have elected a new PM and are still full steam ahead!</p>
+<p>For this posting, we are stepping back a bit to review the development environment setup for the breathing games. Without further ado&hellip;</p>
+<h1 id="arduino-setup">Arduino Setup</h1>
+<ul>
+<li>Connect the M5StickC to your computer via the micro USB cable</li>
+<li>Install and run the Arduino IDE from <a href="https://www.arduino.cc/en/main/software">https://www.arduino.cc/en/main/software</a></li>
+<li>In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager)</li>
+<li>Go to File -&gt; Preferences -&gt; Settings</li>
+<li>Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: <a href="https://dl.espressif.com/dl/package_esp32_index.json">https://dl.espressif.com/dl/package_esp32_index.json</a></li>
+<li>Go to Tools -&gt; Board: -&gt; Boards Manager…</li>
+<li>Search for ESP32 and install it
+M5StickC (Library)</li>
+<li>Go to Sketch -&gt; Include Library -&gt; Manage Libraries and search for M5StickC and install it
+OSC by Adrian Freed, Yotam Mann et.al (Library)</li>
+<li>Now Search for OSC and install it.</li>
+<li>Go to Tools -&gt; Board: and select M5Stick-C</li>
+<li>Go to Tools -&gt; Upload Speed and select 115200</li>
+<li>Go to Tools -&gt; Port and find and select the USB port your M5StickC is connected to, e.g. COM3.</li>
+</ul>
+<figure>
+    <img src="img/wifi_network.jpeg"/> 
+</figure>
+
+<h2 id="wifi-network">WiFi network</h2>
+<p>If you want to develop at home, we found that you can use a local 2G wifi network. Otherwise use the usb wifi router provided by the professor. Just power on the wireless router via a micro USB cable and connect to the network. At the writing of this post these are the network deets:</p>
+<ul>
+<li><strong>Network name:</strong> SpirometerNet</li>
+<li><strong>Pass:</strong> CHLA2020</li>
+<li><strong>Router</strong> admin site:</li>
+<li><strong>Address:</strong> 192.168.0.1</li>
+<li><strong>User:</strong> admin</li>
+<li><strong>Pass:</strong> admin</li>
+</ul>
+<blockquote>
+<p>Take note of your network IP address (e.g., 192.168.0.101)</p>
+</blockquote>
+<p><figure>
+    <img src="img/digital_spirometer.jpeg"/> 
+</figure>
+<figure>
+    <img src="img/month_piece.jpeg"/> 
+</figure>
+</p>
+<h2 id="digital-spirometer">Digital Spirometer</h2>
+<ul>
+<li>Download the digital spirometer files</li>
+<li>In the Arduino IDE open the M5_Spirometer_2020.ino file</li>
+<li>On ~line 44, const char * udpAddress = &ldquo;192.168.0.111&rdquo;; change this to your IP address</li>
+<li>Verify/Compile the code (click the round checkmark icon)</li>
+<li>Now Upload the compiled code to the M5StickC (click the round arrow icon)</li>
+<li>No errors? Then the digital spirometer is all set. Congrats!</li>
+</ul>
+<h2 id="digital-spirometer-osc-tool">Digital Spirometer OSC tool</h2>
+<ul>
+<li>Now run the Digital spirometer OSC tool.exe</li>
+<li>Update the IP address to your IP and the port to 8000</li>
+<li>If all is setup probably blowing into your attached mouth piece on the Digital Spirometer should produce a signal in the OSC tool.</li>
+<li>Jump for joy! Pump your fist in victory! The sensor is working correctly!</li>
+</ul>
+<h2 id="unity--oculus">Unity + Oculus</h2>
+<p>Just follow this great medium article:</p>
+<p><a href="https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13"><strong>&raquo; How to get started with Oculus Quest and Unity on macOS</strong></a>.</p>
+<p>&ndash; The CHLA Team</p>
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    <a href="/tags/development">Development</a>
+                
+                    <a href="/tags/setup">Setup</a>
+                
+                    <a href="/tags/new-production-manager">New Production Manager</a>
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        
+    <div class="article-wrapper u-cf">
+        
             <a class="bubble" href="https://spirometervr.github.io/article/post-week-3/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
@@ -372,6 +609,14 @@
             <ul>
                 
                 <li>
+                    <a href="https://spirometervr.github.io/article/post-week-12/">Week 12: Crunch time continued!</a>
+                </li>
+                
+                <li>
+                    <a href="https://spirometervr.github.io/article/post-week-11/">Week 11: Crunch to final game build!</a>
+                </li>
+                
+                <li>
                     <a href="https://spirometervr.github.io/article/post-week-10/">Week 10: Trearsure Hunter&#39;s new look!</a>
                 </li>
                 
@@ -389,14 +634,6 @@
                 
                 <li>
                     <a href="https://spirometervr.github.io/article/post-week-6/">Week 6: Prototyping continued...</a>
-                </li>
-                
-                <li>
-                    <a href="https://spirometervr.github.io/article/post-week-5/">Week 5: Pivots &amp; Prototyping</a>
-                </li>
-                
-                <li>
-                    <a href="https://spirometervr.github.io/article/post-week-4/">Week 4: Dev Environment Setup &amp; Management Change</a>
                 </li>
                 
             </ul>

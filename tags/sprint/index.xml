@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sprint on Breathing Games Dev Diary</title>
+    <link>https://spirometervr.github.io/tags/sprint/</link>
+    <description>Recent content in sprint on Breathing Games Dev Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Apr 2020 11:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://spirometervr.github.io/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 12: Crunch time continued!</title>
+      <link>https://spirometervr.github.io/article/post-week-12/</link>
+      <pubDate>Fri, 24 Apr 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://spirometervr.github.io/article/post-week-12/</guid>
+      <description>With about on week remaining before our final presentation the CHLA team is full steam ahead with game development.
+The Space Quest game&amp;rsquo;s planet and astroid 3D models assets were updated with Level of Detail (LOD) versions. LOD decreasing the complexity of a 3D model as it moves further away from the camera. LOD descreases the load on graphics processing by increase the efficiency of rendering. A win-win all around. Also, based on prior feedback, the astroids, planets and spaceship speed have been adjusted, out of bounds indicators as been added to help visual que the players know to keep faceing forward, and map generation has been improved.</description>
+    </item>
+    
+  </channel>
+</rss>
